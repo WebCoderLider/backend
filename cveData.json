@@ -1,0 +1,12 @@
+[
+  {
+    "cve": "CVE-2020-1234",
+    "description": "Remote code execution vulnerability in XYZ plugin",
+    "severity": "high"
+  },
+  {
+    "cve": "CVE-2021-5678",
+    "description": "Cross-site scripting vulnerability in ABC theme",
+    "severity": "medium"
+  }
+]
