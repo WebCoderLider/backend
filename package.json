@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "axios": "^1.7.7",
+    "base-64": "^1.0.0",
+    "cors": "^2.8.5",
+    "crypto": "^1.0.1",
+    "express": "^4.19.2",
+    "md5": "^2.3.0",
+    "nodemon": "^3.1.4",
+    "reverse-md5": "^0.0.5",
+    "utf8": "^3.0.0",
+    "whois": "^2.14.2",
+    "whois-json": "^2.0.4"
+  },
+  "name": "hack_back",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "webcoder",
+  "license": "ISC",
+  "description": ""
+}
